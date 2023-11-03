@@ -1,0 +1,104 @@
+.section-body {
+  color: blanchedalmond;
+  height: 100vh;
+}
+
+.section-body-2 {
+  color: blanchedalmond;
+  height: 150vh;
+}
+
+.section-body-3 {
+  color: blanchedalmond;
+}
+
+.section-top-bottom{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.title-top-bottom{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.accordion-row{
+  width: 85vw;
+  background-color: #171616;
+}
+
+.contactus{
+  width: 85vw;
+}
+
+@media (min-width: 576px) {
+  .heading {
+    font-size: 100px;
+  }
+
+  .heading-2 {
+    font-size: 75px;
+  }
+}
+
+.sub-heading {
+  font-size: x-large;
+}
+
+.sub-heading-2 {
+  font-size: 20px;
+}
+
+.sub-heading-3 {
+  font-size: 30px;
+}
+
+.section-2 {
+  background-color: #171616;
+}
+
+.section-3 {
+  background-color: #2a2e32;
+}
+
+.accordion-header-section {
+  background-color: #171616;
+  color: #ffffff;
+}
+
+.card-section {
+  background-color: #242424;
+  color: #ffffff;
+}
+
+.social-icons {
+  margin: 0px 3px;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .accordion-section {
+    width: auto;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .accordion-section {
+    width: auto;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .accordion-section {
+    width: auto;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .accordion-section {
+    width: auto;
+  }
+}
